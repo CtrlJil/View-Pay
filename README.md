@@ -1,7 +1,7 @@
 # View-Pay: **A Comprehensive Solution for Football Viewing Center Payment**
 Football viewing center payment option for a seamless and efficient viewing experience for fans and viewers of the beautiful game.
 
-https://github.com/CtrlJil/View-Pay/blob/main/football-viewing-centre2.webp [Football Viewing Center]
+[Football Viewing Center] ![Football Viewing Center](https://raw.githubusercontent.com/CtrlJil/View-Pay/main/Football-center.jpg)
 
 ## **Introduction**
  Steps to building a **football viewing center payment system**. 
