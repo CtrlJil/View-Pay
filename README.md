@@ -1,6 +1,7 @@
 # View-Pay: **A Comprehensive Solution for Football Viewing Center Payment**
 Football viewing center payment option for a seamless and efficient viewing experience for fans and viewers of the beautiful game.
 
+
 ## **Introduction**
  Steps to building a **football viewing center payment system**. 
  It covers **backend development (Python + SQL)**, **frontend (React Native for mobile app, HTML/CSS for web admin panel)**, **QR code generation & verification**, **security measures**, **offline mode**, **mobile payments**, and **scalability considerations**.
