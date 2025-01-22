@@ -1,0 +1,33 @@
+football_booking_system/
+│
+├── backend/
+│   ├── app.py                  # Main Flask application
+│   ├── models.py               # Database models
+│   ├── routes.py               # API routes
+│   ├── utils.py                # Utility functions (QR code, notifications)
+│   ├── requirements.txt        # Python dependencies
+│   └── tests/                  # Unit and integration tests
+│       ├── test_models.py
+│       ├── test_routes.py
+│       └── test_utils.py
+│
+├── frontend/
+│   ├── public/
+│   ├── src/
+│   │   ├── components/         # React components
+│   │   ├── App.js              # Main React app
+│   │   ├── index.js            # Entry point
+│   │   └── api.js              # API calls to backend
+│   ├── package.json            # Frontend dependencies
+│   └── README.md
+│
+├── admin_panel/
+│   ├── templates/              # HTML templates for admin panel
+│   ├── app.py                  # Admin backend
+│   ├── routes.py               # Admin routes
+│   └── requirements.txt        # Admin panel dependencies
+│
+├── database/
+│   └── db.sqlite               # SQLite database (or PostgreSQL setup)
+│
+└── README.md                   # Project documentation
